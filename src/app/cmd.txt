@@ -1,0 +1,3 @@
+ng g c virtual --spec=false
+npm install @angular/cdk
+ng g c drag --spec=false
